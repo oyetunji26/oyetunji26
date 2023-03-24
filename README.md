@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oyetunji26
-- 👀 I’m interested in web app design/development
+- 👀 I’m into web app design/development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on web apps
+- 💞️ I’m looking forward to collaborate on web apps
 - 📫 How to reach me +2348064500750
 
 <!---
