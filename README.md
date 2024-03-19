@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @oyetunji26
-- 👀 I’m into web app design/development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking forward to collaborate on web apps
-- 📫 How to reach me +2348064500750
+Hello, I'm [Your Name]! 👋
+About Me
+I'm a [Your Job Title/Role] based in [Your Location]. I enjoy working on [Your Interests/Hobbies] in my free time.
 
-<!---
-oyetunji26/oyetunji26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm Working On
+Currently, I'm working on [Your Current Project/Goal].
+I'm also learning [Technology/Subject You're Learning].
+Get in Touch
+LinkedIn: [Your LinkedIn Profile URL]
+Email: [Your Email Address]
+Fun Fact
+[Interesting Fact About Yourself]
+
+My GitHub Stats
+
+You can customize this template by replacing the placeholders with your own information. Feel free to add or remove sections as needed to better showcase your profile!
