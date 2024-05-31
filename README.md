@@ -1,16 +1,35 @@
-Hello, I'm [Your Name]! 👋
-About Me
-I'm a [Your Job Title/Role] based in [Your Location]. I enjoy working on [Your Interests/Hobbies] in my free time.
+# Welcome to my GitHub profile! 👋
+=================================
 
-What I'm Working On
-Currently, I'm working on [Your Current Project/Goal].
-I'm also learning [Technology/Subject You're Learning].
-Get in Touch
-LinkedIn: [Your LinkedIn Profile URL]
-Email: [Your Email Address]
-Fun Fact
-[Interesting Fact About Yourself]
+I'm **Oyetunji Olagoke**, a **FullStack Engineer** from Nigeria. I'm passionate about **Building Problem Solving Software** and love to contribute to open-source projects.
 
-My GitHub Stats
+## About Me
+-----------
 
-You can customize this template by replacing the placeholders with your own information. Feel free to add or remove sections as needed to better showcase your profile!
+* I'm a **Fronted Developer** with **2** years of experience in **[Your Field]**.
+* I'm skilled in **ReactJs, NextJs, MongoDb, NodeJs e.t.c** and always looking to learn more.
+* In my free time, I enjoy **Reading, Music and Binging Movies**.
+
+## Projects
+----------
+
+### [Project 1]
+#### A brief description of your project.
+
+### [Project 2]
+#### A brief description of your project.
+
+### [Project 3]
+#### A brief description of your project.
+
+## Get in Touch
+---------------
+
+* **Email**: oyetunjie5@gmail.com
+* **Twitter**: https://x.com/oyetunjie26
+* **LinkedIn**: https://linkedin.com/oyetunji-olagoke
+
+## Thanks for Visiting! 🙏
+------------------------
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or want to collaborate on a project!
