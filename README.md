@@ -6,7 +6,7 @@ I'm **Oyetunji Olagoke**, a **FullStack Engineer** from Nigeria. I'm passionate 
 ## About Me
 -----------
 
-* I'm a **Fronted Developer** with **2** years of experience in **[Your Field]**.
+* I'm a **Frontend Developer** with **2** years of experience.
 * I'm skilled in **ReactJs, NextJs, MongoDb, NodeJs e.t.c** and always looking to learn more.
 * In my free time, I enjoy **Reading, Music and Binging Movies**.
 
